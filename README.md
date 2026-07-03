@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="https://github.com/jcgpl-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&vCenter=true&width=500&lines=FLUTTER+DEVELOPER;GRAPHIC+ARTIST;MOBILE+ENG+ROLE+SEEKER" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&vCenter=true&width=500&lines=FLUTTER+DEVELOPER;GRAPHIC+ARTIST;MOBILE+DEV+ROLE+SEEKER" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 I specialize in **Flutter cross-platform development** and **Firebase backend integration**. I build production-ready mobile and web applications, ranging from real-time **QR-based systems** and **AES-encrypted data pipelines** to full UI/UX implementations using sleek design principles.
 
 📍 Based in **Dipolog City, Philippines**  
-🎓 **B.S. in Computer Science** – *JRMSU Katipunan Campus* (2022 - Present)
+🎓 **B.S. in Computer Science** – *JRMSU Katipunan Campus* (2022 - 2026)
 
 ---
 
