@@ -34,24 +34,6 @@ I specialize in **Flutter cross-platform development** and **Firebase backend in
 
 ---
 
-## 📊 GitHub Ecosystem Data
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=jcgpl-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jcgpl-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jcgpl-dev&theme=tokyonight&hide_border=true" width="97%" />
-</p>
-
-### 🏆 Earned Badges
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jcgpl-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
 ## 📬 Get in Touch
 > Open to freelance opportunities, collaborative projects, or engineering roles. Let's build something exceptional.
 
